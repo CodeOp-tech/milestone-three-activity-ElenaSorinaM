@@ -9,6 +9,10 @@ body {
 .list-item {
   color: red;
 }
+img {
+  height: 500px;
+  width: auto;
+}
 
 form {
   margin-top: 4em;
@@ -19,7 +23,9 @@ label {
   margin: 1em 0;
   font-weight: bold;
 }
-
+button {
+  cursor: pointer;
+}
 input {
   display: block;
 }
